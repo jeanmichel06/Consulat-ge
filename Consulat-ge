@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulat de Guinée Équatoriale - Cotonou</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #026937;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            padding: 20px;
+        }
+        .contact {
+            background-color: white;
+            padding: 20px;
+            margin: 20px auto;
+            width: 80%;
+            max-width: 600px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Consulat Général de Guinée Équatoriale à Cotonou
+    </header>
+    <div class="container">
+        <h2>Bienvenue sur le site officiel</h2>
+        <p>Nous sommes à votre disposition pour toutes vos démarches consulaires.</p>
+        <div class="contact">
+            <h3>Contactez-nous</h3>
+            <p>📍 Adresse : Cotonou, Bénin</p>
+            <p>📞 Téléphone : +229 00 00 00 00</p>
+            <p>📧 Email : contact@consulatge-bj.org</p>
+        </div>
+    </div>
+</body>
+</html>
